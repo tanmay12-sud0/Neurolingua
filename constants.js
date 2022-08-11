@@ -1,0 +1,10 @@
+exports.VERIFY_EMAIL = 1
+exports.RESET_PASSWORD = 2
+exports.REMARK_MESSAGE = 3
+exports.APPROVAL_MESSAGE = 4
+exports.EMAIL_VERIFIED = 5
+exports.PASSWORD_CHANGED = 6
+exports.RESET_PASSWORD_SUCCESS = 7
+exports.GET_IN_TOUCH = 8
+exports.STUDENT = 'Student'
+exports.TEACHER = 'Teacher'
